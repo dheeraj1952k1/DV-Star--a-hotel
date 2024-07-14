@@ -513,17 +513,8 @@ nav {
   flex-wrap: wrap;
 }
 
-.footer__socials img {
-  max-width: 25px;
-  opacity: 0.8;
-  transition: 0.3s;
-}
 
-.footer__socials img:hover {
-  opacity: 1;
-}
-
-.footer__bar {
+footer__bar {
   padding: 1rem;
   font-size: 0.9rem;
   color: var(--text-light);
